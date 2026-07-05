@@ -1,6 +1,3 @@
-# google-cybersecurity-certificate
-Portfólio de projetos desenvolvidos durante o curso Cybersecurity do Google.
-
 # Portfólio de Cybersecurity
 
 Bem-vindo(a) ao meu portfólio de segurança cibernética. Este espaço foi projetado para documentar e demonstrar minhas habilidades práticas, laboratórios e projetos desenvolvidos ao longo do curso.
