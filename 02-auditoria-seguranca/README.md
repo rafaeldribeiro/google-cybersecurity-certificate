@@ -14,15 +14,15 @@
 
 ## 📝 Apresentação do Projeto 
 
-A empresa expandiu suas vendas online para o mercado internacional, mas a infraestrutura digital ficou vulnerável e sem um plano de crescimento claro. Utilizei as diretrizes do **NIST CSF** para mapear os ativos e preencher esta auditoria, avaliando o que está funcionando e o que precisa ser corrigido urgentemente para evitar ataques e multas pesadas.
+A empresa expandiu suas vendas online para o mercado internacional, mas a infraestrutura digital ficou vulnerável e sem um plano de crescimento claro. Utilizei as diretrizes do **NIST CSF** para mapear os ativos e preencher esta auditoria.
 
 ---
 
-## 📂 Materiais de Apoio e Contexto do Caso
-*Instruções: Clique nas caixas abaixo para expandir e ler os documentos oficiais que usei como base para esta auditoria.*
+## 📂 Materiais de apoio e ontexto do caso
+*Clique nas caixas abaixo para expandir e ler os documentos oficiais que usei como base para esta auditoria.*
 
 <details>
-<summary>📄 1. Cenário, Escopo e Relatório de Riscos da Empresa</summary>
+<summary>📄 1. Cenário, escopo e relatório de riscos da empresa</summary>
 
 ### Sobre a Botium Toys
 Uma pequena empresa dos EUA que desenvolve e vende brinquedos. Possui um escritório principal, vitrine e depósito físicos, mas seu e-commerce cresceu atraindo clientes globais (inclusive na União Europeia).
@@ -39,7 +39,7 @@ Uma pequena empresa dos EUA que desenvolve e vende brinquedos. Possui um escrit�
 </details>
 
 <details>
-<summary>📋 2. Categorias de Controles Analisados (Diretrizes NIST)</summary>
+<summary>📋 2. Categorias de controles analisados</summary>
 
 Para avaliar a empresa, os controles foram divididos em três categorias fundamentais:
 1.  **Controles administrativos (Humanos):** Políticas de senhas, princípio do privilégio mínimo e separação de funções.
