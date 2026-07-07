@@ -2,15 +2,12 @@
 
 <details>
 <summary>📸 PDFs dos materiais de apoio</summary>
-  
-[Botium_Toys_Escopo_objetivos_e_relatório_de_avaliação_de_riscos.pdf](https://github.com/user-attachments/files/29765084/Botium_Toys_Escopo_objetivos_e_relatorio_de_avaliacao_de_riscos.pdf)
 
-[Lista_de_verificação_de_controles_e_conformidade.pdf](https://github.com/user-attachments/files/29765124/Lista_de_verificacao_de_controles_e_conformidade.pdf)
+[Botium Toys_ Scope, goals, and risk assessment report.pdf](https://github.com/user-attachments/files/29765199/Botium.Toys_.Scope.goals.and.risk.assessment.report.pdf)
 
-[Categorias _de_controle.pdf](https://github.com/user-attachments/files/29765102/Categorias._de_controle.pdf)
+[Control categories.pdf](https://github.com/user-attachments/files/29765218/Control.categories.pdf)
 
-
-
+[Controls and compliance checklist.pdf](https://github.com/user-attachments/files/29765333/Controls.and.compliance.checklist.pdf)
 
 
 </details>
