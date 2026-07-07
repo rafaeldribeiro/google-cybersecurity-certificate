@@ -120,7 +120,7 @@ A pontuação de risco atual da Botium Toys é **8 de 10**, o que coloca a conti
 ## ✏️ Respostas oficiais da atividade (Verificação do curso)
 
 * **Pergunta 1:** Você revisou o escopo, as metas e o relatório de Avaliação de risco? **Sim.**
-* **Pergunta 2:** Você considerou os riscos para os clientes, funcionários e/ou recursos da Botium Toys com base nos controles...? **Sim.**
+* **Pergunta 2:** Você considerou os riscos para os clientes, funcionários e/ou recursos da Botium Toys com base nos controles? **Sim.**
 * **Pergunta 3:** Você revisou o documento de categorias de controle? **Sim.**
 * **Pergunta 4:** Você selecionou "sim" ou "não" para cada controle listado? **Sim.**
 * **Pergunta 5:** Você selecionou "sim" ou "não" para cada prática recomendada de conformidade? **Sim.**
