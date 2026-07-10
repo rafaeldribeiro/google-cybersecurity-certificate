@@ -1,4 +1,4 @@
-# 🛡️ Auditoria Interna de TI - Botium Toys
+# 🛡️ Auditoria Interna de TI
 
 <details>
 <summary>📸 PDFs dos materiais de apoio</summary>
