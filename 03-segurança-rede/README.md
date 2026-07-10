@@ -1,12 +1,15 @@
 # Atividade: Analisar a comunicação na camada de rede
 
 ## 📝 Apresentação do Projeto
-Este projeto faz parte do Curso 3 (**Conectar e Proteger: Redes e Segurança de Redes**) do Certificado Profissional de Cybersecurity do Google. Como estudante do 2º semestre de Segurança da Informação, este é o meu portfólio prático de análise de pacotes brutos usando a ferramenta **tcpdump** dentro da pasta `03-seguranca-rede`.
+Este projeto faz parte do Curso 3 (**Conectar e Proteger: Redes e Segurança de Redes**) do Cybersecurity Google.
 
 ---
 
 ## 📂 Documentação e Contexto do Caso
 *Clique na caixa abaixo para verificar o cenário e os registros brutos capturados que usei para a investigação.*
+
+<details>
+<summary>📄 <img width="906" height="452" alt="Captura de tela de 2026-07-09 21-14-44" src="https://github.com/user-attachments/assets/856b0f9e-d320-495f-8c62-0af0487c9ff0" /></summary>
 
 <details>
 <summary>🔍 Visualizar Logs do tcpdump e Cenário de Investigação</summary>
