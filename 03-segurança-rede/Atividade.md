@@ -6,7 +6,7 @@ Este projeto faz parte do curso 3 (**Conectar e proteger: redes e segurança de 
 No cenário desta atividade, o site de receitas `www.yummyrecipesforme.com` ficou indisponível para os clientes. Minha missão foi inspecionar os logs de tráfego para entender qual protocolo falhou e gerar o relatório técnico de incidente abaixo.
 
 <details>
-<summary>📸 Clique aqui para ver o print dos logs</summary>
+<summary>📸 Clique aqui para visualizar o print</summary>
 
 <img width="906" height="452" alt="Captura de tela de 2026-07-09 21-14-44" src="https://github.com/user-attachments/assets/c3b5f0e1-9d03-479d-ad44-bdbf2c43de51" />
 
