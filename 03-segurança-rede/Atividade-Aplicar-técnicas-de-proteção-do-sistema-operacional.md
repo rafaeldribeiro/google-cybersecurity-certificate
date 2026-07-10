@@ -5,6 +5,17 @@ Este projeto prático faz parte do Curso 3 do Certificado de Cybersecurity do Go
 
 O incidente envolveu uma quebra de credenciais de administrador por força bruta, alteração do código-fonte do servidor web e o redirecionamento malicioso de usuários legítimos para o download de um malware. Minha missão foi analisar os registros de rede obtidos via **tcpdump**, documentar o incidente e indicar uma medida de segurança eficiente para mitigar essa vulnerabilidade.
 
+<details>
+<summary>📸 links dos materiais de apoio</summary>
+
+[Security incident report template.pdf](https://github.com/user-attachments/files/29902656/Security.incident.report.template.pdf)
+
+[tcpdump traffic log.pdf](https://github.com/user-attachments/files/29902688/tcpdump.traffic.log.pdf)
+
+[How to read the tcpdump traffic log.pdf](https://github.com/user-attachments/files/29902671/How.to.read.the.tcpdump.traffic.log.pdf)
+
+</details>
+
 ---
 
 ## 📂 Materiais de apoio e evidências do caso
