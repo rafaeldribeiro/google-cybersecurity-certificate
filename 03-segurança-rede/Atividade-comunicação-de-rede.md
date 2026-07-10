@@ -1,7 +1,7 @@
 # Atividade: Analisar a comunicação na camada de rede 🌐
 
 ## 📝 Apresentação da atividade
-Essa atividade faz parte do curso 3 (**Conectar e proteger: redes e segurança de redes**) do curso cybersecurity do google. Este foi o meu primeiro contato prático com análise de pacotes brutos usando a ferramenta **tcpdump**.
+Essa atividade faz parte do curso 3 (**Conectar e proteger: redes e segurança de redes**) do cybersecurity do google. Este foi o meu primeiro contato prático com análise de pacotes brutos usando a ferramenta **tcpdump**.
 
 No cenário desta atividade, o site de receitas `www.yummyrecipesforme.com` ficou indisponível para os clientes. Minha missão foi inspecionar os logs de tráfego para entender qual protocolo falhou e gerar o relatório técnico de incidente abaixo.
 
