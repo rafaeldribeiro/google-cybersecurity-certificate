@@ -5,10 +5,14 @@ Este projeto corresponde à quarta atividade prática do Curso 3 (**Conectar e P
 
 Minha meta foi inspecionar as vulnerabilidades relatadas, mapear as melhores ferramentas de **Network Hardening** (Fortalecimento de Rede) e propor uma avaliação de risco de segurança estruturada para evitar novos vazamentos de dados de clientes.
 
+<details>
+<summary>📸 PDFs dos materiais de apoio</summary>
 
+[Network hardening tools.xlsx](https://github.com/user-attachments/files/29909729/Network.hardening.tools.xlsx)
 
+[Security risk assessment report.pdf](https://github.com/user-attachments/files/29909727/Security.risk.assessment.report.pdf)
 
-
+</details>
 
 ---
 
@@ -47,12 +51,12 @@ Recomendações que devem ser implementadas imediatamente pela organização.
 
 #### 📝 Recomendação 1: Implementação de autenticação multifator (MFA)
 *   **Por que essa técnica é eficaz?** 
-    O maior problema atual da empresa é a fragilidade das credenciais de acesso. O MFA é extremamente eficaz porque invalida o poder da posse simples da senha.
+  O maior problema atual da empresa é a fragilidade das credenciais de acesso. O MFA é extremamente eficaz porque invalida o poder da posse simples da senha.
 *   **Com que frequência precisa ser implementada?** 
-    É um controle que se configura **uma vez e permanece ativo continuamente** protegendo os sistemas. No entanto, revisões operacionais e de manutenção devem ser feitas periodicamente (por exemplo, a cada dois meses) para garantir que novos funcionários entrem na política e que colaboradores desligados tenham seus tokens revogados imediatamente.
+  É  um controle que se configura **uma vez e permanece ativo continuamente** protegendo os sistemas. No entanto, revisões operacionais e de manutenção devem ser feitas periodicamente (por exemplo, a cada dois meses) para garantir que novos funcionários entrem na política e que colaboradores desligados tenham seus tokens revogados imediatamente.
 
 #### 📝 Recomendação 2: Configuração de filtros de porta e manutenção do firewall
 *   **Por que essa técnica é eficaz?** 
-    Um firewall sem regras de filtragem é como ter uma barreira física com a cancela sempre aberta. A filtragem de portas é eficaz porque limita a comunicação apenas ao estritamente necessário para o negócio.
+  Um firewall sem regras de filtragem é como ter uma barreira física com a cancela sempre aberta. A filtragem de portas é eficaz porque limita a comunicação apenas ao estritamente necessário para o negócio.
 *   **Com que frequência precisa ser implementada?** 
-    A manutenção das regras de firewall e a verificação de portas devem ocorrer de forma **frequente e preventiva**
+  A  manutenção das regras de firewall e a verificação de portas devem ocorrer de forma **frequente e preventiva**
