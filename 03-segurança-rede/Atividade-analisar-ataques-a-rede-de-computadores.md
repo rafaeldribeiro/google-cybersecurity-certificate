@@ -5,6 +5,17 @@ Este projeto prático faz parte do Curso 3 (**Conectar e proteger: redes e segur
 
 O objetivo deste trabalho foi inspecionar o tráfego do servidor web afetado, descobrir o mecanismo do ataque que gerou a queda do sistema e preencher o relatório técnico oficial exigido pela gerência.
 
+<details>
+<summary>📸 links dos materiais de apoio</summary>
+
+[Wireshark TCP_HTTP log.xlsx](https://github.com/user-attachments/files/29899640/Wireshark.TCP_HTTP.log.xlsx)
+
+[How to read a Wireshark TCP_HTTP log.pdf](https://github.com/user-attachments/files/29899565/How.to.read.a.Wireshark.TCP_HTTP.log.pdf)
+
+[Cybersecurity incident report.pdf](https://github.com/user-attachments/files/29899547/Cybersecurity.incident.report.pdf)
+
+</details>
+
 ---
 
 ## 📂 Materiais de apoio integrados
