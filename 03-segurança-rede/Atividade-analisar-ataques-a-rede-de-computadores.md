@@ -1,4 +1,4 @@
-# Atividade: Analisar ataques à rede de computadores
+# Atividade: Analisar ataques a rede de computadores
 
 ## 📝 Apresentação da atividade
 Este projeto prático faz parte do Curso 3 (**Conectar e proteger: redes e segurança de redes**) do curso cybersecurity do google.
