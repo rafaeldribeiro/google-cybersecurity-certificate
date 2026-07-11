@@ -5,13 +5,16 @@ Este é o meu projeto final do Curso 3 (**Conectar e proteger: redes e seguranç
 
 O objetivo deste relatório é documentar o incidente demonstrando como mapear um ataque de negação de serviço (DoS) dentro das 5 funções principais de segurança da informação.
 
+<details>
+<summary>📸 Links dos materiais de apoio</summary>
 
+[Incident report analysis.pdf](https://github.com/user-attachments/files/29911033/Incident.report.analysis.pdf)
 
+[Applying the NIST CSF .pdf](https://github.com/user-attachments/files/29911053/Applying.the.NIST.CSF.pdf)
 
+[Completed Example of an Incident report analysis.pdf](https://github.com/user-attachments/files/29911046/Completed.Example.of.an.Incident.report.analysis.pdf)
 
-
-
-
+</details>
 
 ---
 
