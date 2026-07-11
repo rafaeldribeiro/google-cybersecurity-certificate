@@ -1,7 +1,7 @@
 # 🛡️ Auditoria Interna de TI
 
 <details>
-<summary>📸 PDFs dos materiais de apoio</summary>
+<summary>📸 links dos materiais de apoio</summary>
 
 [Botium Toys_ Scope, goals, and risk assessment report.pdf](https://github.com/user-attachments/files/29765199/Botium.Toys_.Scope.goals.and.risk.assessment.report.pdf)
 
