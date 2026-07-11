@@ -1,7 +1,7 @@
-# Projeto de portfólio: Rresponder a Iincidentes com a estrutura NIST CSF 🛡️
+# Projeto de portfólio: Responder a incidentes com a estrutura NIST CSF 🛡️
 
 ## 📝 Apresentação do projeto
-Este é o meu projeto final do Curso 3 (**Conectar e Proteger: Redes e Segurança de Redes**) do curso cybersecurity do google. Utilizei a estrutura do **NIST CSF** para analisar e organizar a resposta a um ataque de rede sofrido por uma empresa de multimídia.
+Este é o meu projeto final do Curso 3 (**Conectar e proteger: redes e segurança de redes**) do curso cybersecurity do google. Utilizei a estrutura do **NIST CSF** para analisar e organizar a resposta a um ataque de rede sofrido por uma empresa de multimídia.
 
 O objetivo deste relatório é documentar o incidente demonstrando como mapear um ataque de negação de serviço (DoS) dentro das 5 funções principais de segurança da informação.
 
