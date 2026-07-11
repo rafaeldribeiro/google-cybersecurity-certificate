@@ -6,7 +6,7 @@ Este projeto corresponde à quarta atividade prática do Curso 3 (**Conectar e P
 Minha meta foi inspecionar as vulnerabilidades relatadas, mapear as melhores ferramentas de **Network Hardening** (Fortalecimento de Rede) e propor uma avaliação de risco de segurança estruturada para evitar novos vazamentos de dados de clientes.
 
 <details>
-<summary>📸 PDFs dos materiais de apoio</summary>
+<summary>📸 Links dos materiais de apoio</summary>
 
 [Network hardening tools.xlsx](https://github.com/user-attachments/files/29909729/Network.hardening.tools.xlsx)
 
