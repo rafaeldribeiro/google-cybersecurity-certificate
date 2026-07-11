@@ -7,7 +7,7 @@ Bem-vindo(a) ao meu portfólio de segurança cibernética. Este espaço foi proj
 
 *  [📄 Declaração Profissional](./01-declaracao-profissional)
 *  [🛡️ Auditoria de Segurança e Gestão de Riscos](./02-auditoria-seguranca)
-*   🌐 Análise de Estrutura e Segurança de Rede
+*  [🌐 Conectar e Proteger: Redes e Segurança de Redes](./03-segurança-rede)
 *   🐧 Gerenciamento de Permissões com Comandos Linux
 *   🗄️ Aplicação de Filtros em Consultas SQL
 *   🔍 Identificação de Vulnerabilidades
