@@ -29,7 +29,7 @@ ls -la
 
 ## Descrever a cadeia de permissões
 
-### 1º caractere 
+# 1º caractere 
 (-): Indica o tipo do arquivo. O hífen significa que é um arquivo comum (se fosse a letra d, seria um diretório).
 
 ### 2º, 3º e 4º caracteres
