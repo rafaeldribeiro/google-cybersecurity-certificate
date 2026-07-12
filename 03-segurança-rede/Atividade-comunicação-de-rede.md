@@ -34,9 +34,13 @@ O problema mais provável aqui é que o serviço de DNS no servidor de destino e
 **parte 2:** Análise detalhada dos dados e causa provável
 
 **Horário em que o incidente ocorreu:** O problema foi registrado em tempo real entre **13:24:32** e **13:28:50**
+
 **Como a equipe de TI ficou sabendo do incidente:** Vários clientes externos começaram a abrir chamados relatando que o site de receitas não carregava.
+
 **Ações tomadas pelo departamento de TI para investigar o caso:** Para descobrir em qual camada da rede estava a falha, rodamos o analisador de protocolos de rede `tcpdump` forçava uma nova requisição do site. Isso permitiu capturar o tráfego exato que passava pelas interfaces de rede no momento do erro.
+
 **Principais descobertas da investigação da TI:** O computador de teste dispara requisições via protocolo UDP para o servidor de DNS `203.0.113.2` na porta 53.
+
 **Causa mais provável do incidente:** O software do servidor DNS parou de funcionar ou uma atualização recente nas regras de firewall acabou bloqueando acidentalmente a porta 53 UDP. Sem o serviço rodando ou acessível, nenhuma máquina consegue traduzir o nome do site para o IP correto.
 
 ---
