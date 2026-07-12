@@ -9,7 +9,7 @@ Bem-vindo(a) ao meu portfólio de segurança cibernética. Este espaço foi proj
 *  [🛡️ Auditoria de Segurança e Gestão de Riscos](./02-auditoria-seguranca)
 *  [🌐 Conectar e Proteger: Redes e Segurança de Redes](./03-segurança-rede)
 *  [🐧 Gerenciamento de Permissões com Comandos Linux](./04-linux-permissoes)
-*   🗄️ Aplicação de Filtros em Consultas SQL
+*  [🗄️ Aplicação de Filtros em Consultas SQL](./05-consultas-sql)
 *   🔍 Identificação de Vulnerabilidades
 *   🚨 Documentação de Incidentes (Diário de Incidentes)
 *   🐍 Automação e Análise de Arquivos de Texto com Python
