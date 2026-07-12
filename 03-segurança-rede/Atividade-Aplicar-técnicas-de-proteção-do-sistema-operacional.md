@@ -1,7 +1,7 @@
 # Atividade: Aplicar técnicas de proteção do sistema operacional 🖥️
 
 ## 📝 Apresentação da atividade
-Este projeto prático faz parte do Curso 3 do Certificado de Cybersecurity do Google. Assumi o papel de Analista de Segurança para investigar uma invasão cibernética sofrida pelo site de culinária `yummyrecipesforme.com`.
+Assumi o papel de analista de segurança para investigar uma invasão cibernética sofrida pelo site de culinária `yummyrecipesforme.com`.
 
 O incidente envolveu uma quebra de credenciais de administrador por força bruta, alteração do código-fonte do servidor web e o redirecionamento malicioso de usuários legítimos para o download de um malware. Minha missão foi analisar os registros de rede obtidos via **tcpdump**, documentar o incidente e indicar uma medida de segurança eficiente para mitigar essa vulnerabilidade.
 
