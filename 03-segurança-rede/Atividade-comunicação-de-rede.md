@@ -27,7 +27,7 @@ A análise é baseada nos resultados da rede, que mostram que o servidor de dest
 
 A porta anotada na mensagem de erro **Porta 53** é normalmente usada para o serviço de **DNS**, que traduz os nomes de sites em endereços IP legíveis para as máquinas.
 
-O problema mais provável aqui é que o serviço de DNS no servidor de destino está **desativado/caído**, ou existe um firewall bloqueando especificamente as requisições UDP que tentam entrar por essa porta.
+O problema mais provável aqui é que o serviço de DNS no servidor de destino está **desativado/caído**, ou existe um firewall bloqueando especificamente as requisições UDP que tentam entrar por essa porta, impedindo que o navegador descubra o IP do site para abrir a página via HTTPS.
 
 ---
 
