@@ -19,7 +19,7 @@ Neste projeto prático, assumi o papel de analista de segurança cibernética pa
 ---
 
 ## 🔍 Verificar detalhes de arquivos e diretórios
-Para listar todos os arquivos do diretório `/home/researcher2/projects`, incluindo os arquivos ocultos, e examinar suas permissões atuais, utilizei o comando:
+Para listar todos os arquivos do diretório `/home/researcher2/projects`, incluindo os arquivos ocultos, e examinar as permissões atuais, utilizei o comando:
 
 ```bash
 ls -la
