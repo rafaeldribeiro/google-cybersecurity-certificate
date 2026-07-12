@@ -1,9 +1,9 @@
 # Atividade: Análise do hardening de rede 🛡️
 
 ## 📝 Apresentação da atividade
-Este projeto corresponde à quarta atividade prática do Curso 3 (**Conectar e Proteger: Redes e Segurança de Redes**) do curso Cybersecurity do Google. Analisei o caso de uma organização de mídia social que sofreu uma grande violação de dados devido a falhas críticas de configuração e hábitos dos usuários.
+Analisei o caso de uma organização de mídia social que sofreu uma grande violação de dados devido a falhas críticas de configuração e hábitos dos usuários.
 
-Minha meta foi inspecionar as vulnerabilidades relatadas, mapear as melhores ferramentas de **Network Hardening** (Fortalecimento de Rede) e propor uma avaliação de risco de segurança estruturada para evitar novos vazamentos de dados de clientes.
+Minha meta foi inspecionar as vulnerabilidades relatadas, mapear as melhores ferramentas de **Network Hardening** e propor uma avaliação de risco de segurança estruturada para evitar novos vazamentos de dados de clientes.
 
 <details>
 <summary>📸 Links dos materiais de apoio</summary>
@@ -47,7 +47,7 @@ Com base no catálogo de ferramentas de hardening de rede, selecionei os três m
 
 ### 💡 Parte 2: Recomendações
 
-Recomendações que devem ser implementadas imediatamente pela organização.
+Recomendações que devem ser implementadas imediatamente.
 
 #### 📝 Recomendação 1: Implementação de autenticação multifator (MFA)
 *   **Por que essa técnica é eficaz?** 
