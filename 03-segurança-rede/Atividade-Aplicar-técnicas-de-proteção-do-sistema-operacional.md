@@ -18,24 +18,34 @@ O incidente envolveu uma quebra de credenciais de administrador por força bruta
 
 ---
 
-## 📂 Materiais de apoio e evidências do caso
-*Clique nas caixas abaixo para expandir e ler a documentação.*
+### Seção 1:  Identificar o protocolo de rede envolvido no incidente
 
-<details>
-<summary>📋 1. O enário completo da invasão (Contexto)</summary>
+**1.** Identificado nos registros com o sufixo `dns.google.domain.` Esse protocolo foi utilizado no início do processo timestamp `14:18:32` para converter o endereço textual do site em um IP numérico legível para a rede `203.0.113.22`
 
-### Descrição do ataque:
+**2.** Identificado no log pelo sufixo `.http` associado a porta padrão 80 e pela requisição explícita de dados `HTTP: GET / HTTP/1.1 às 14:18:36.` O HTTP foi o protocolo responsável por carregar a página web comprometida que continha a função JavaScript maliciosa e por iniciar o download do arquivo executável contendo o malware.
+
+---
+
+### Seção 2: Documentar o incidente
+
+**Descrição do ataque:**
 Um ex-funcionário insatisfeito realizou um ataque de força bruta contra o painel de administração da hospedagem do site `yummyrecipesforme.com`. Como a conta administrativa ainda utilizava a senha padrão de fábrica, o hacker conseguiu adivinhar a credencial após várias tentativas automáticas.
 
-### Ação maliciosa:
+**Ação maliciosa:**
 * Após efetuar o login, o atacante alterou o código-fonte do site inserindo uma função maliciosa em JavaScript.
 * Essa função induzia os visitantes a baixar um arquivo falso sob o pretexto de "atualizar o navegador" ou acessar "receitas gratuitas".
 * O script modificava o comportamento do navegador, redirecionando o tráfego dos clientes reais para um domínio malicioso controlado pelo atacante: `greatrecipesforme.com`.
 * Para finalizar, o invasor alterou a senha mestra de administração, bloqueando o acesso do proprietário legítimo.
 
-### Descoberta do incidente:
+**Descoberta do incidente:**
 Vários clientes enviaram e-mails ao suporte reclamando de lentidão nos computadores após executarem o arquivo do site. O dono da empresa tentou logar para investigar, mas percebeu que havia sido bloqueado, e imediatamente comunicou o time de analistas de segurança.
-</details>
+
+---
+
+### Seção 3: Recomendar uma medida de remediação para ataques de força bruta
+
+Medida recomendada: Implementação de autenticação de dois fatores (2FA) combinada com uma política de bloqueio de Cconta
+
 
 <details>
 <summary>🔍 2. Registro de Tráfego Capturado (Log tcpdump)</summary>
