@@ -45,7 +45,7 @@ ls -la
 
 ## Permissões de arquivos
 
-## 1. Alterar permissões do arquivo comum.
+### 1. Alterar permissões do arquivo comum.
 A política da organização proíbe que usuários externos ("outros") tenha acesso de gravação/escrita a qualquer arquivo. Identifiquei que o `project_k.txt` violava essa regra. Usei o seguinte comando para remover a permissão de escrita de terceiros.
 
 ```Bash
@@ -56,7 +56,7 @@ A string do arquivo mudou de `-rwxrwxrwx` para `-rwxrwxr-x`, garantindo a integr
 
 ---
 
-## 2. Alterar permissões em um arquivo oculto
+### 2. Alterar permissões em um arquivo oculto
 
 O arquivo oculto `.project_x.txt` foi arquivado pela equipe. A nova diretriz exige que ninguém tenha permissão de escrita nele, mas o usuário e o grupo precisam conseguir ler o arquivo. Usei o comando `chmod` para definir essa política de leitura exclusiva `(r--r-----)`
 
@@ -68,7 +68,7 @@ O arquivo oculto agora está protegido contra qualquer modificação acidental o
 
 ---
 
-## 3. Alterar permissões de diretório
+### 3. Alterar permissões de diretório
 
 O diretório `drafts/` pertence ao usuário `researcher2`. A regra de segurança determina que apenas ele deve ter acesso a essa pasta e ao seu conteúdo. Para remover completamente os privilégios do grupo de usuários, executei
 
@@ -80,7 +80,7 @@ A permissão do diretório mudou de `drwxr-x---` para `drwx------`. Agora, qualq
 
 ---
 
-## Resumo
+### Resumo
 
 Neste projeto, apliquei conceitos práticos de administração de sistemas Linux para auditar a segurança de dados de uma equipe de pesquisa. Utilizando comandos como ls -la para mapear o ambiente e chmod para restringir privilégios, alinhei o sistema de arquivos às políticas de conformidade da empresa. Essas ações mitigaram riscos de vazamentos e modificações não autorizadas, consolidando a defesa em profundidade a nível de sistema operacional.
 
