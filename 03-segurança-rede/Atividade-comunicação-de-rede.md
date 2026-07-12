@@ -45,7 +45,7 @@ O problema mais provável aqui é que o serviço de DNS no servidor de destino e
 
 ---
 
-## 📂 Evidências do Incidente
+## 📂 Evidências do incidente
 *Clique na caixa abaixo para verificar os registros capturados no terminal durante a investigação.*
 
 <details>
