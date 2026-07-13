@@ -4,6 +4,15 @@
 
 Nesta atividade, foi feita uma análise dos riscos com base no ambiente operacional de um banco comercial. Como o banco tem muitos funcionários, alguns trabalhando remotamente, e lida com dados financeiros sensíveis, existem várias situações em que falhas humanas, vazamento de informações ou problemas operacionais podem acontecer.
 
+
+<details>
+<summary>📸 link do material de apoio</summary>
+
+[Risk register.pdf](https://github.com/user-attachments/files/29974728/Risk.register.pdf)
+
+</details>
+
+
 ## Registro de riscos
 
 | Risco | Probabilidade | Gravidade | Prioridade |
