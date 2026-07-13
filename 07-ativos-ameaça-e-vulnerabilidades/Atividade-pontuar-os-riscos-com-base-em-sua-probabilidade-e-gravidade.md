@@ -1,4 +1,4 @@
-## Atividade: Pontuar os riscos com base em sua probabilidade e gravidade
+### Atividade: Pontuar os riscos com base em sua probabilidade e gravidade
 
 ## Avaliação de riscos
 
