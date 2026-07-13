@@ -36,7 +36,7 @@ Abaixo está o inventário de ativos da rede doméstica estruturado com as três
 
 ### 1. Laptop
 *   **Acesso e Características:** Conectado diariamente a rede sem fio criptografada pelo proprietário de dentro do escritório.
-*   **Sensibilidade:** Classificado como **Restrito**** porque armazena as informações mais sensíveis da nossa operação comercial (dados financeiros e acessos de clientes).
+*   **Sensibilidade:** Classificado como **Restrito** porque armazena as informações mais sensíveis da nossa operação comercial (dados financeiros e acessos de clientes).
 
 ### 2. Dispositivo de armazenamento
 *   **Acesso e Características:** Mantém conexão contínua via cabo diretamente ligada à rede local sob responsabilidade do proprietário.
