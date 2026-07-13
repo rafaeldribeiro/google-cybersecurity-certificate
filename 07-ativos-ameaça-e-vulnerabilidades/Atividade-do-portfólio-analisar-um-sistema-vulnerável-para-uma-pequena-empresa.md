@@ -25,11 +25,11 @@ O objetivo desse relatório é avaliar os riscos de segurança do nosso servidor
 ### 📊 Avaliação de vulnerabilidades
 A tabela abaixo quantifica os riscos associados ao servidor com base no cálculo padrão de matriz de risco do NIST.
 
-| Fonte) | Evento de Ameaça | Probabilidade | Gravidade | Risco |
+| Fonte | Evento de Ameaça | Probabilidade | Gravidade | Risco |
 | :--- | :--- | :---: | :---: | :---: |
-| **Outsider / Hacker** | Conseguir informações confidenciais por meio de vazamento de dados dos clientes. | 3 | 3 | **9** |
-| **Usuário padrão / Funcionário** | Alterar ou deletar informações críticas das operações diárias por acidente ou erro de permissão. | 2 | 3 | **6** |
-| **Outsider / Hacker** | Realizar ataques de Negação de Serviço DoS para derrubar e sobrecarregar o banco de dados. | 2 | 2 | **4** |
+| **Hacker** | Conseguir informações confidenciais por meio de vazamento de dados dos clientes. | 3 | 3 | **9** |
+| **Funcionário** | Alterar ou deletar informações críticas das operações diárias por acidente ou erro de permissão. | 2 | 3 | **6** |
+| **Hacker** | Realizar ataques de Negação de Serviço DoS para derrubar e sobrecarregar o banco de dados. | 2 | 2 | **4** |
 
 ---
 
