@@ -17,7 +17,7 @@ O objetivo foi assumir o papel de dono de uma pequena empresa doméstica para es
 
 ## 📂 Planilha de inventário de ativos
 
-Abaixo está o inventário de ativos da rede doméstica estruturado a partir do modelo oficial do curso, contendo três referências básicas e os três novos dispositivos identificados no cenário:
+Abaixo está o inventário de ativos da rede doméstica:
 
 | Asset | Network access | Owner | Location | Notes | Sensitivity |
 | :--- | :--- | :--- | :--- | :--- | :--- |
