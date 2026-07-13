@@ -1,6 +1,6 @@
-### Atividade: Pontuar os riscos com base em sua probabilidade e gravidade
+## Atividade: Pontuar os riscos com base em sua probabilidade e gravidade
 
-## Avaliação de riscos
+### Avaliação de riscos
 
 Nesta atividade, foi feita uma análise dos riscos com base no ambiente operacional de um banco comercial. Como o banco tem muitos funcionários, alguns trabalhando remotamente, e lida com dados financeiros sensíveis, existem várias situações em que falhas humanas, vazamento de informações ou problemas operacionais podem acontecer.
 
