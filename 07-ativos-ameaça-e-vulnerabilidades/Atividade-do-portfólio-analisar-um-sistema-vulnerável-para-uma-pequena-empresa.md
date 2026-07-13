@@ -5,6 +5,16 @@ Realizei uma auditoria interna focada nos controles de acesso e na exposição d
 
 O objetivo principal foi mapear os riscos de manter nossa base de dados MySQL aberta ao público e estruturar um plano de remediação baseado nas diretrizes de risco do padrão **NIST SP 800-30 Rev. 1**.
 
+
+<details>
+<summary>📸 link do material de apoio</summary>
+
+[NIST SP 800-30 Rev. 1.pdf](https://github.com/user-attachments/files/29986522/NIST.SP.800-30.Rev.1.pdf)
+
+[Vulnerability assessment report.pdf](https://github.com/user-attachments/files/29986519/Vulnerability.assessment.report.pdf)
+
+</details>
+
 ---
 
 ## 📂 Visão geral da infraestrutura do sistema
@@ -34,7 +44,7 @@ A tabela abaixo quantifica os riscos associados ao servidor com base no cálculo
 ---
 
 ### 🛠️ Abordagem
-Escolhi essas três fontes de ameaça e seus respectivos eventos porque eles atacam diretamente o nosso maior ponto fraco: o banco de dados estar 100% visível na internet. Um hacker externo tem facilidade máxima para tentar roubar dados dos clientes ou derrubar o sistema por DoS, já que não existem barreiras de rede impedindo o acesso inicial ao servidor. Além disso, como muitos funcionários trabalham remotamente sem privilégios bem definidos, o risco de uma falha humana interna apagar informações críticas é real e perigoso.
+Escolhi essas três fontes de ameaça e seus respectivos eventos porque eles atacam diretamente o nosso maior ponto fraco: o banco de dados estar 100% visível na internet. Um hacker externo tem facilidade máxima para tentar roubar dados dos clientes ou derrubar o sistema por DoS, já que não existem barreiras de rede impedindo o acesso inicial ao servidor.
 
 ---
 
