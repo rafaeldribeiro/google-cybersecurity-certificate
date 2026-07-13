@@ -1,4 +1,4 @@
-# Atividade: Analisar vazamento de dados com base no rivilégio mínimo 🔐
+# Atividade: Analisar vazamento de dados com base no privilégio mínimo 🔐
 
 ## 📝 Descrição do Projeto
 Analisei um incidente de vazamento de dados confidenciais de planos de negócios em uma empresa de tecnologia educacional.
@@ -6,16 +6,12 @@ Analisei um incidente de vazamento de dados confidenciais de planos de negócios
 O objetivo foi avaliar a falha operacional que permitiu o vazamento, revisar as diretrizes de controle de acesso do padrão **NIST SP 800-53: AC-6** e recomendar melhorias no gerenciamento de privilégios para evitar que incidentes semelhantes voltem a acontecer.
 
 
+<details>
+<summary>📸 link do material de apoio</summary>
 
+[Activity Template_ Data leak worksheet.pdf](https://github.com/user-attachments/files/29976869/Activity.Template_.Data.leak.worksheet.pdf)
 
-
-
-
-
-
-
-
-
+</details>
 
 
 ---
