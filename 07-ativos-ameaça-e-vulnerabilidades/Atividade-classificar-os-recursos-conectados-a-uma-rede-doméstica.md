@@ -1,4 +1,4 @@
-# Atividade: Classificar recursos em uma rede doméstica 🏠💻
+# Atividade: Classificar recursos em uma rede doméstica 🏠
 
 ## 📝 Descrição do projeto
 O objetivo foi assumir o papel de dono de uma pequena empresa doméstica para estruturar um inventário de ativos de rede. Mapear as características e definir a sensibilidade de cada dispositivo é fundamental para aplicar regras de proteção proporcionais ao risco de cada um.
