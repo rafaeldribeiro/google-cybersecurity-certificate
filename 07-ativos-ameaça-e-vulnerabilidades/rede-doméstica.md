@@ -3,6 +3,18 @@
 ## 📝 Descrição do projeto
 O objetivo foi assumir o papel de dono de uma pequena empresa doméstica para estruturar um inventário de ativos de rede.
 
+
+
+<details>
+<summary>📸 link do material de apoio</summary>
+
+[Home asset inventory.xlsx](https://github.com/user-attachments/files/29987559/Home.asset.inventory.xlsx)
+
+<img width="1600" height="900" alt="img" src="https://github.com/user-attachments/assets/9f0f6297-fcd2-48da-b6b9-59c2dd6d35d3" />
+
+
+</details>
+
 ---
 
 ## 📂 Planilha de inventário de ativos
