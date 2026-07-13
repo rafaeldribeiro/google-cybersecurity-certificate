@@ -4,27 +4,15 @@
 Neste projeto de portfólio, atuei como profissional de segurança cibernética contratado por uma empresa em crescimento que quase sofreu um desvio financeiro na folha de pagamento. Meu objetivo foi auditar os logs de eventos do sistema operacional.
 
 
+<details>
+<summary>📸 links dos materiais de apoio</summary>
+
+[Accounting exercise.xlsx](https://github.com/user-attachments/files/29979147/Accounting.exercise.xlsx)
+
+[Access control worksheet.pdf](https://github.com/user-attachments/files/29979140/Access.control.worksheet.pdf)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</details>
 
 ---
 
