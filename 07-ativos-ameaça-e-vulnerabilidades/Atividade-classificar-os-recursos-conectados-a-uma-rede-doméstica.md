@@ -3,6 +3,16 @@
 ## 📝 Descrição do projeto
 O objetivo foi assumir o papel de dono de uma pequena empresa doméstica para estruturar um inventário de ativos de rede. Mapear as características e definir a sensibilidade de cada dispositivo é fundamental para aplicar regras de proteção proporcionais ao risco de cada um.
 
+
+<details>
+<summary>📸 links dos materiais de apoio</summary>
+
+[Home asset inventory.xlsx](https://github.com/user-attachments/files/29948916/Home.asset.inventory.xlsx)
+
+<img width="1600" height="900" alt="imagem" src="https://github.com/user-attachments/assets/cc249910-098a-42e4-a1d2-7a621e97b372" />
+
+</details>
+
 ---
 
 ## 📂 Planilha de inventário de ativos
