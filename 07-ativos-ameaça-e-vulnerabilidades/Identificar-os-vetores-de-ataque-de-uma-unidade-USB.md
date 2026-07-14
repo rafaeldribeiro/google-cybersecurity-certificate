@@ -5,6 +5,15 @@ Analisei um incidente de risco físico e lógico, um pendrive corporativo encont
 
 O objetivo deste relatório foi aplicar uma mentalidade de ataque para avaliar os perigos de vazamento de informações de identificação pessoal (PII), entender como um cibercriminoso usaria esses dados e sugerir controles técnicos, operacionais e gerenciais para mitigar ataques de **USB Baiting**.
 
+<details>
+<summary>📸 link do material de apoio</summary>
+
+[Parking lot USB exercise.pdf](https://github.com/user-attachments/files/29989925/Parking.lot.USB.exercise.pdf)
+
+<img width="1460" height="965" alt="img" src="https://github.com/user-attachments/assets/87766b1f-5e4b-47a6-806a-4f2eb6f388ca" />
+
+</details>
+
 ---
 
 ## 📂 Relatório de análise do pendrive
