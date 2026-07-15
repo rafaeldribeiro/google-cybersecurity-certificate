@@ -1,7 +1,7 @@
 # Atividade: Diário do supervisor de incidentes 📝
 
 ## 📝 Descrição do projeto
-Simulei a primeira entrada no diário do supervisor de incidentes
+Simulei a primeira entrada no diário do supervisor de incidentes.
 
 O objetivo deste projeto foi documentar os fatos iniciais de um ataque real de Ransomware sofrido por uma clínica médica nos Estados Unidos, utilizando o método estruturado das 5 perguntas para facilitar a triagem de segurança.
 
