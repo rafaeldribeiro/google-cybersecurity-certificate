@@ -6,7 +6,15 @@ Simulei a atuação de um analista de segurança de Nível 1 trabalhando no cent
 O objetivo deste projeto foi investigar um alerta de download de arquivo suspeito no computador de um funcionário corporativo. A partir do hash SHA-256 do arquivo malicioso, utilizei a plataforma global de inteligência de ameaças **VirusTotal** para auditar a reputação do arquivo, extrair outros indicadores de comprometimento (IoCs) e mapear usando a estrutura da **Pirâmide da Dor.
 
 
+<details>
+<summary>📸 link do material de apoio</summary>
 
+
+[Pyramid of Pain.pdf](https://github.com/user-attachments/files/30060725/Pyramid.of.Pain.pdf)
+
+
+
+</details>
 
 
 ---
