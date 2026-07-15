@@ -1,5 +1,16 @@
 # Atividade: Analisadores de protocolo de rede 🌐🔍
 
+<details>
+<summary>📸 link do material de apoio</summary>
+
+[Diagram template.pdf](https://github.com/user-attachments/files/30059317/Diagram.template.pdf)
+
+https://www.tcpdump.org/index.html#documentation
+
+https://www.wireshark.org/docs/wsug_html/
+
+</details>
+
 ## 📝 Descrição do projeto
 Realizei uma pesquisa comparativa sobre os dois principais analisadores de protocolo do mercado: o **wireshark** e o **tcpdump**.
 
