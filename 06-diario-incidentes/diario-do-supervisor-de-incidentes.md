@@ -6,19 +6,13 @@ Simulei a primeira entrada no diário do supervisor de incidentes
 O objetivo deste projeto foi documentar os fatos iniciais de um ataque real de Ransomware sofrido por uma clínica médica nos Estados Unidos, utilizando o método estruturado das 5 perguntas para facilitar a triagem de segurança.
 
 
+<details>
+<summary>📸 link do material de apoio</summary>
 
 
+[Incident handler's journal .pdf](https://github.com/user-attachments/files/30058224/Incident.handler.s.journal.pdf)
 
-
-
-
-
-
-
-
-
-
-
+</details>
 
 ---
 
