@@ -6,6 +6,19 @@ Mmeu objetivo foi guiar uma investigação de segurança seguindo estritamente a
 A investigação partiu de um alerta de segurança acionado no servidor de e-mails da empresa. Utilizei técnicas de análise de cabeçalho, detecção de erros gramaticais e validação de hashes criptográficos para confirmar a falsidade do e-mail e realizar o devido encaminhamento.
 
 
+<details>
+<summary>📸 link do material de apoio</summary>
+
+
+[Alert ticket.pdf](https://github.com/user-attachments/files/30068136/Alert.ticket.pdf)
+
+[Phishing incident response playbook.pdf](https://github.com/user-attachments/files/30068130/Phishing.incident.response.playbook.pdf)
+
+
+
+
+
+</details>
 
 
 
@@ -20,10 +33,10 @@ Abaixo está o registro atualizado do tíquete de incidente de segurança no sis
 
 | Campo do tíquete | Informações registradas no sistema |
 | :--- | :--- |
-| **Ticket ID** | A-2703[cite: 20] |
+| **Ticket ID** | A-2703 |
 | **Mensagem de alerta** | SERVER-MAIL: Tentativa de phishing, possível download de malware|
 | **Gravidade** | Média |
-| **Ticket Status** | **Encaminhado** |
+| **Ticket Status** | **encaminhado** |
 | **Detalhes** | O usuário pode ter recebido um e-mail malicioso, aberto anexos ou clicado em links suspeitos |
 | **Informações adicional** | **Hash malicioso verificado (SHA256):** `54e6ea47eb04634d3e87fd7787e2136ccfbcc80ade34f246a12cf93bab527f6b` <br><br> **Dados brutos do e-mail interceptado:** <br> - **De (From):** Def Communications `<76tguyhh6tgftrt7tg.su>` (IP: `114.114.114.114`) <br> - **Para (To):** `<hr@inergy.com>` (IP: `176.157.125.93`) <br> - **Assunto:** `Re: Infrastructure Egnieer role` <br> - **Mensagem:** "Dear HR at Ingergy, I am writing for to express my interest in the engineer role posted from the website. There is attached my resume and cover letter. For privacy, the file is password protected. Use the password paradise10789 to open. <br> - **Anexo:** `filename="bfsvc.exe"` |
 
