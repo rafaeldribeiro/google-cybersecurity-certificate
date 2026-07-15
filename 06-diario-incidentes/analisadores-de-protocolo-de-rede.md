@@ -7,28 +7,6 @@ O objetivo deste projeto foi entender as particularidades de cada ferramenta, ma
 
 ---
 
-## 📊 Gráfico de comparação
-
-Abaixo, estruturei um gráfico comparativo rápido para ilustrar as diferenças de usabilidade e as semelhanças cruciais entre as ferramentas.
-
-
-[ WIRESHARK ]                               [ TCPDUMP ]
-    +-------------------------------+           +-------------------------------+
-    | - Interface Gráfica           |           | - Interface de Terminal       |
-    | - Análise interativa visual   |           | - Extremamente leve e rápido  |
-    | - Gráficos e código de cores  |           | - Ideal para servidores remotos|
-    +-------------------------------+           +-------------------------------+
-                            \                   /
-                             \                 /
-                              [ SEMELHANÇAS ]
-                    +-----------------------------------+
-                    | - Ambas são código aberto         |
-                    | - Capturam e filtram pacotes      |
-                    | - Utilizam o mesmo formato        |
-                    +-----------------------------------+
-
-
-
 ## 🛠️ Análise detalhada das ferramentas
 
 ### 🔵 wireshark
