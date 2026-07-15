@@ -14,17 +14,17 @@ Abaixo, estruturei um gráfico comparativo rápido para ilustrar as diferenças 
 
 [ WIRESHARK ]                               [ TCPDUMP ]
     +-------------------------------+           +-------------------------------+
-    | - Interface Gráfica |                     | - Interface de Terminal |
-    | - Análise interativa visual |             | - Extremamente leve e rápido |
-    | - Gráficos e código de cores |            | - Ideal para servidores remotos|
+    | - Interface Gráfica           |           | - Interface de Terminal       |
+    | - Análise interativa visual   |           | - Extremamente leve e rápido  |
+    | - Gráficos e código de cores  |           | - Ideal para servidores remotos|
     +-------------------------------+           +-------------------------------+
                             \                   /
                              \                 /
                               [ SEMELHANÇAS ]
                     +-----------------------------------+
-                    | - Ambas são código aberto  |
-                    | - Capturam e filtram pacotes |
-                    | - Utilizam o mesmo formato |
+                    | - Ambas são código aberto         |
+                    | - Capturam e filtram pacotes      |
+                    | - Utilizam o mesmo formato        |
                     +-----------------------------------+
 
 
