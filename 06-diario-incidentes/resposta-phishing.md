@@ -1,26 +1,26 @@
-# Atividade: Resposta a Incidente de Phishing com Uso de Playbook 🛡️📧
+# Atividade: Atividade: Usar um manual para responder a um incidente de phishing
 
-## 📝 Descrição do Projeto (Project Description)
-Este projeto faz parte da quarta atividade prática do Curso 6 (**Soe o Alarme: Detecção e Resposta**) do Certificado Profissional de Cybersecurity do Google. Como estudante do 2º semestre de Segurança da Informação atuando como Analista de SOC Nível 1, meu objetivo foi guiar uma investigação de segurança seguindo estritamente as regras de um manual de resposta (Phishing Playbook v1.0)[cite: 21].
+## 📝 Descrição do projeto
+Mmeu objetivo foi guiar uma investigação de segurança seguindo estritamente as regras de um manual de resposta.
 
-A investigação partiu de um alerta de segurança acionado no servidor de e-mails da empresa. Utilizei técnicas de análise de cabeçalho, detecção de erros gramaticais e validação de hashes criptográficos para confirmar a falsidade do e-mail e realizar o devido encaminhamento técnico (escalonamento) para os analistas de Nível 2 da equipe.
+A investigação partiu de um alerta de segurança acionado no servidor de e-mails da empresa. Utilizei técnicas de análise de cabeçalho, detecção de erros gramaticais e validação de hashes criptográficos para confirmar a falsidade do e-mail e realizar o devido encaminhamento.
 
 ---
 
-## 🎫 Tíquete de Alerta de Segurança (Completed Security Ticket)
+## 🎫 Tíquete de alerta de segurança
 
-Abaixo está o registro atualizado do tíquete de incidente de segurança no sistema do SOC da organização após a conclusão da minha análise:
+Abaixo está o registro atualizado do tíquete de incidente de segurança no sistema.
 
-| Campo do Tíquete | Informações Registradas no Sistema |
+| Campo do tíquete | Informações registradas no sistema |
 | :--- | :--- |
 | **Ticket ID** | A-2703[cite: 20] |
-| **Alert Message** | SERVER-MAIL: Phishing attempt, possible download of malware[cite: 20] |
-| **Severity (Gravidade)** | Medium (Média)[cite: 20] |
-| **Ticket Status** | **Escalated (Encaminhado)**[cite: 20, 21] |
-| **Details (Detalhes)** | O usuário pode ter recebido um e-mail malicioso, aberto anexos ou clicado em links suspeitos[cite: 20]. |
-| **Additional Information** | **Hash malicioso verificado (SHA256):** `54e6ea47eb04634d3e87fd7787e2136ccfbcc80ade34f246a12cf93bab527f6b`[cite: 20] <br><br> **Dados brutos do e-mail interceptado:** <br> - **De (From):** Def Communications `<76tguyhh6tgftrt7tg.su>` (IP: `114.114.114.114`)[cite: 20] <br> - **Para (To):** `<hr@inergy.com>` (IP: `176.157.125.93`)[cite: 20] <br> - **Assunto:** `Re: Infrastructure Egnieer role`[cite: 20] <br> - **Mensagem:** "Dear HR at Ingergy, I am writing for to express my interest in the engineer role posted from the website. There is attached my resume and cover letter. For privacy, the file is password protected. Use the password paradise10789 to open."[cite: 20] <br> - **Anexo:** `filename="bfsvc.exe"`[cite: 20] |
+| **Mensagem de alerta** | SERVER-MAIL: Tentativa de phishing, possível download de malware|
+| **Gravidade** | Média |
+| **Ticket Status** | **Encaminhado** |
+| **Detalhes** | O usuário pode ter recebido um e-mail malicioso, aberto anexos ou clicado em links suspeitos |
+| **Informações adicional** | **Hash malicioso verificado (SHA256):** `54e6ea47eb04634d3e87fd7787e2136ccfbcc80ade34f246a12cf93bab527f6b` <br><br> **Dados brutos do e-mail interceptado:** <br> - **De (From):** Def Communications `<76tguyhh6tgftrt7tg.su>` (IP: `114.114.114.114`) <br> - **Para (To):** `<hr@inergy.com>` (IP: `176.157.125.93`) <br> - **Assunto:** `Re: Infrastructure Egnieer role` <br> - **Mensagem:** "Dear HR at Ingergy, I am writing for to express my interest in the engineer role posted from the website. There is attached my resume and cover letter. For privacy, the file is password protected. Use the password paradise10789 to open. <br> - **Anexo:** `filename="bfsvc.exe"` |
 
-### 💬 Ticket Comments (Comentários e Resolução do Analista)
+### 💬 Comentários e resolução do analista
 
 > **Resumo do Caso:** Este alerta (ID: A-2703) foi acionado devido à detecção de uma possível tentativa de phishing com download de malware enviada ao e-mail corporativo do setor de Recursos Humanos[cite: 20]. 
 >
