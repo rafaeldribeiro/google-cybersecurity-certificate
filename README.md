@@ -11,7 +11,7 @@ Bem-vindo(a) ao meu portfólio de segurança cibernética. Este espaço foi proj
 *  [🗄️ Aplicação de filtros em consultas SQL](./05-consultas-sql)
 *  [🔍 Identificação de vulnerabilidades](./07-ativos-ameaça-e-vulnerabilidades)
 *  [🚨 Documentação de incidentes](./06-diario-incidentes)
-*  [🐍 Automação e análise de arquivos de texto com python](./08-algoritimo-python)
+*  [🐍 Automação e análise de arquivos de texto com python](./08-algoritmo-python)
 
 ## 🛠️ Tecnologias e ferramentas estudadas
 *   Linux
