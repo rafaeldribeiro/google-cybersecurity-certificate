@@ -3,6 +3,16 @@
 ## 📝 Descrição do projeto
 Como analista de segurança em uma organização de saúde, sou responsável por controlar o acesso a uma sub-rede restrita que contém registros confidenciais de pacientes. Esse controle é feito por meio de um arquivo de texto que lista os endereços IP autorizados. Quando funcionários mudam de setor ou são desligados, preciso garantir que seus IPs sejam removidos imediatamente. Para automatizar esse processo e evitar falhas manuais, desenvolvi um algoritmo em Python que abre o arquivo de permissões, compara seu conteúdo com uma lista de remoção e atualiza os registros de forma limpa e rápida.
 
+
+<details>
+<summary>📸 link do material de apoio</summary>
+
+[Algorithm for file updates in Python.pdf](https://github.com/user-attachments/files/30137451/Algorithm.for.file.updates.in.Python.pdf)
+
+[Instructions for including Python code.pdf](https://github.com/user-attachments/files/30137446/Instructions.for.including.Python.code.pdf)
+
+</details>
+
 ---
 
 ## 🔍 Arquivo que contém a lista de permissões.
