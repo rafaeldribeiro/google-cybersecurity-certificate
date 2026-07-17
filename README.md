@@ -3,7 +3,6 @@
 Bem-vindo(a) ao meu portfólio de segurança cibernética. Este espaço foi projetado para documentar e demonstrar minhas habilidades práticas, laboratórios e projetos desenvolvidos ao longo do curso.
 
 ## 📌 Projetos em Destaque
-*(Conforme eu progredir no curso, os links abaixo ficarão ativos para cada projeto)*
 
 *  [📄 Declaração profissional](./01-declaracao-profissional)
 *  [🛡️ Auditoria de segurança e gestão de riscos](./02-auditoria-seguranca)
