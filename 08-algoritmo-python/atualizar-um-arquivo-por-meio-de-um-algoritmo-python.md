@@ -1,6 +1,6 @@
 # Atividade: Algoritmo python para atualização de arquivos de segurança 🐍
 
-## 📝 Descrição do Projeto
+## 📝 Descrição do projeto
 Como analista de segurança em uma organização de saúde, sou responsável por controlar o acesso a uma sub-rede restrita que contém registros confidenciais de pacientes. Esse controle é feito por meio de um arquivo de texto que lista os endereços IP autorizados. Quando funcionários mudam de setor ou são desligados, preciso garantir que seus IPs sejam removidos imediatamente. Para automatizar esse processo e evitar falhas manuais, desenvolvi um algoritmo em Python que abre o arquivo de permissões, compara seu conteúdo com uma lista de remoção e atualiza os registros de forma limpa e rápida.
 
 ---
