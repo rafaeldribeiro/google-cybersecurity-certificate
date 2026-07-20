@@ -1,7 +1,7 @@
 # Atividade: Aplicar filtros a consultas SQL 🗄️
 
 ## 📝 Descrição do projeto
-Neste projeto de portfólio, assumi o papel de analista de segurança para investigar possíveis incidentes de acesso e mapear vulnerabilidades em ativos usando a linguagem SQL. Através da filtragem de dados nas tabelas estruturadas de funcionários (`employees`) e de tentativas de acesso (`log_in_attempts`), executei consultas focadas em isolar comportamentos incomuns (como logins fora do horário e acessos vindos do exterior) e identificar máquinas que necessitavam de correções críticas de segurança.
+Neste projeto de portfólio, assumi o papel de analista de segurança para investigar possíveis incidentes de acesso e mapear vulnerabilidades em ativos usando a linguagem SQL. Através da filtragem de dados nas tabelas estruturadas de funcionários `employees` e de tentativas de acesso `log_in_attempts`, executei consultas focadas em isolar comportamentos incomuns como logins fora do horário e acessos vindos do exterior e identificar máquinas que necessitavam de correções críticas de segurança.
 
 <details>
 <summary>📸 links dos materiais de apoio</summary>
